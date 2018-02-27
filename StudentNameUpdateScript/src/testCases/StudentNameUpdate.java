@@ -2,8 +2,10 @@ package testCases;
 
 import org.openqa.selenium.support.ui.Select;
 
+import bsh.util.Util;
 import pageObjects.Home_Page;
 import utility.Constant;
+import utility.Utils;
 
 public class StudentNameUpdate {
 	public static void update() throws Exception {
@@ -12,15 +14,9 @@ public class StudentNameUpdate {
 	    
 	    new Select(Home_Page.dropdown_ApplyingFor()).selectByVisibleText("M.Tech FT");
 //	    driver.findElement(By.name("admnType")).click();
-	    Home_Page.txtbx_Email().click();
-	    Home_Page.txtbx_Email().clear();
-	    Home_Page.txtbx_Email().sendKeys(Constant.Username);
-	    Home_Page.txtbx_Email().click();
-	    Home_Page.txtbx_Email().clear();
-	    Home_Page.txtbx_Email().sendKeys(Constant.Username);
-	    Home_Page.txtbx_Password().click();
-	    Home_Page.txtbx_Password().clear();
-	    Home_Page.txtbx_Password().sendKeys(Constant.Password);
+	    Utils.enterData(Home_Page.txtbx_Email(), Constant.Username);
+	    Utils.enterData(Home_Page.txtbx_Password(), Constant.Password); 
+	    
 	    Home_Page.btn_Login().click();
 	   /* driver.findElement(By.id("NAME OF THE APPLICANT1")).click();
 	    driver.findElement(By.id("NAME OF THE APPLICANT1")).clear();

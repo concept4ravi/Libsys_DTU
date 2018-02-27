@@ -45,12 +45,12 @@ public class Framework_001{
 		}
 		
 	  }catch(AssertionError e) {
-		  Utils.takeScreenshot(driver, sTestCaseName);
+//		  Utils.takeScreenshot(driver, sTestCaseName);
 		  Log.error(e.getMessage());
 		  throw (e);
 	  }
 	  catch (Exception e){
-		  Utils.takeScreenshot(driver, sTestCaseName);
+//		  Utils.takeScreenshot(driver, sTestCaseName);
 		  Log.error(e.getMessage());
 		  throw (e);
 	  }

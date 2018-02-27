@@ -1,65 +1,46 @@
-2018-02-27 14:32:57,242 INFO  [Log] **************************************************************************************** 
-2018-02-27 14:32:57,243 INFO  [Log] **************************************************************************************** 
-2018-02-27 14:32:57,243 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-02-27 14:32:57,243 INFO  [Log] **************************************************************************************** 
-2018-02-27 14:32:57,243 INFO  [Log] **************************************************************************************** 
-2018-02-27 14:32:57,793 INFO  [Log] New Chrome driver instantiated 
-2018-02-27 14:32:57,795 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-02-27 14:32:58,221 INFO  [Log] Web application launched successfully 
-2018-02-27 14:32:58,246 INFO  [Log] Login Link found on the Home Page 
-2018-02-27 14:32:58,298 INFO  [Log] ApplyingFor DropDown found on the Home Page 
-2018-02-27 14:32:58,377 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:32:58,417 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:32:58,438 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:32:58,497 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:32:58,519 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:32:58,532 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:32:58,587 INFO  [Log] Password Text box is found on the Home Page 
-2018-02-27 14:32:58,625 INFO  [Log] Password Text box is found on the Home Page 
-2018-02-27 14:32:58,646 INFO  [Log] Password Text box is found on the Home Page 
-2018-02-27 14:32:58,688 INFO  [Log] Login Button found on the Home Page 
-2018-02-27 14:32:58,995 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-02-27 14:32:58,995 INFO  [Log] X 
-2018-02-27 14:32:58,995 INFO  [Log] X 
-2018-02-27 14:32:58,995 INFO  [Log] X 
-2018-02-27 14:32:58,995 INFO  [Log] X 
-2018-02-27 14:38:07,603 INFO  [Log] **************************************************************************************** 
-2018-02-27 14:38:07,603 INFO  [Log] **************************************************************************************** 
-2018-02-27 14:38:07,603 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-02-27 14:38:07,603 INFO  [Log] **************************************************************************************** 
-2018-02-27 14:38:07,603 INFO  [Log] **************************************************************************************** 
-2018-02-27 14:38:08,165 INFO  [Log] New Chrome driver instantiated 
-2018-02-27 14:38:08,168 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-02-27 14:38:08,635 INFO  [Log] Web application launched successfully 
-2018-02-27 14:38:08,660 INFO  [Log] Login Link found on the Home Page 
-2018-02-27 14:38:08,712 INFO  [Log] ApplyingFor DropDown found on the Home Page 
-2018-02-27 14:38:08,787 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:38:08,827 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:38:08,848 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:38:08,915 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:38:08,939 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:38:08,952 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:38:09,010 INFO  [Log] Password Text box is found on the Home Page 
-2018-02-27 14:38:09,050 INFO  [Log] Password Text box is found on the Home Page 
-2018-02-27 14:38:09,071 INFO  [Log] Password Text box is found on the Home Page 
-2018-02-27 14:38:09,112 INFO  [Log] Login Button found on the Home Page 
-2018-02-27 14:38:39,294 INFO  [Log] **************************************************************************************** 
-2018-02-27 14:38:39,294 INFO  [Log] **************************************************************************************** 
-2018-02-27 14:38:39,294 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-02-27 14:38:39,294 INFO  [Log] **************************************************************************************** 
-2018-02-27 14:38:39,295 INFO  [Log] **************************************************************************************** 
-2018-02-27 14:38:39,847 INFO  [Log] New Chrome driver instantiated 
-2018-02-27 14:38:39,851 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-02-27 14:38:40,405 INFO  [Log] Web application launched successfully 
-2018-02-27 14:38:40,433 INFO  [Log] Login Link found on the Home Page 
-2018-02-27 14:38:40,484 INFO  [Log] ApplyingFor DropDown found on the Home Page 
-2018-02-27 14:38:40,558 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:38:40,599 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:38:40,620 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:38:40,679 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:38:40,704 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:38:40,716 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 14:38:40,768 INFO  [Log] Password Text box is found on the Home Page 
-2018-02-27 14:38:40,807 INFO  [Log] Password Text box is found on the Home Page 
-2018-02-27 14:38:40,829 INFO  [Log] Password Text box is found on the Home Page 
-2018-02-27 14:38:40,874 INFO  [Log] Login Button found on the Home Page 
+2018-02-27 17:48:59,134 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:48:59,134 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:48:59,135 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-27 17:48:59,135 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:48:59,135 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:48:59,144 ERROR [Log] Login Link not found on the Home Page 
+2018-02-27 17:48:59,144 ERROR [Log]  
+2018-02-27 17:50:02,579 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:50:02,579 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:50:02,579 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-27 17:50:02,579 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:50:02,579 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:50:03,048 INFO  [Log] New Chrome Headless driver instantiated 
+2018-02-27 17:50:03,050 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-27 17:50:03,589 INFO  [Log] Web application launched successfully 
+2018-02-27 17:50:03,613 INFO  [Log] Login Link found on the Home Page 
+2018-02-27 17:50:03,662 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-27 17:50:03,733 INFO  [Log] Email text box is found on the Home Page 
+2018-02-27 17:50:03,827 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-27 17:50:03,910 INFO  [Log] Login Button found on the Home Page 
+2018-02-27 17:51:08,833 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:51:08,834 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:51:08,834 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-27 17:51:08,834 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:51:08,834 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:51:09,290 INFO  [Log] New Chrome Headless driver instantiated 
+2018-02-27 17:51:09,293 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-27 17:51:09,767 INFO  [Log] Web application launched successfully 
+2018-02-27 17:51:09,791 INFO  [Log] Login Link found on the Home Page 
+2018-02-27 17:51:09,947 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-27 17:51:10,023 INFO  [Log] Email text box is found on the Home Page 
+2018-02-27 17:51:10,128 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-27 17:51:10,216 INFO  [Log] Login Button found on the Home Page 
+2018-02-27 17:52:01,862 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:52:01,862 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:52:01,862 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-27 17:52:01,862 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:52:01,862 INFO  [Log] **************************************************************************************** 
+2018-02-27 17:52:04,375 INFO  [Log] New Firefox driver instantiated 
+2018-02-27 17:52:04,382 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-27 17:52:12,589 INFO  [Log] Web application launched successfully 
+2018-02-27 17:52:12,618 INFO  [Log] Login Link found on the Home Page 
+2018-02-27 17:52:12,683 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-27 17:52:12,745 INFO  [Log] Email text box is found on the Home Page 
+2018-02-27 17:52:12,806 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-27 17:52:12,853 INFO  [Log] Login Button found on the Home Page 

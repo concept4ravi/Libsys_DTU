@@ -6,10 +6,10 @@ public class Constant {
 	    public static final int randomStringLength = 6;
 	    public static final String Username = "abc@libsys.co.in";
 	    public static final String Password ="libsys";
-		public static final String Path_TestData = "/home/intern/git/Guru99Project/Guru99Project/src/testData/";
-		public static final String File_TestData = "TestData.xlsx";
-		public static final String firefoxDriverLocation =  "/home/intern/eclipse-workspace/StudentNameUpdateScript/Browser Driver/geckodriver";
-		public static final String chromeDriverLocation = "/home/intern/eclipse-workspace/StudentNameUpdateScript/Browser Driver/chromedriver";
+		public static final String firefoxDriverLocation =  "/home/intern/git/Libsys_DTU/StudentNameUpdateScript/Browser Driver/geckodriver";
+		public static final String chromeDriverLocation = "/home/intern/git/Libsys_DTU/StudentNameUpdateScript/Browser Driver/chromedriver";
+		public static final String ghostDriverLocation = "/home/intern/git/Libsys_DTU/StudentNameUpdateScript/Browser Driver/phantomjs";
+		
 		//Test Data Sheet Columns
-		public static final String Path_ScreenShot = "/home/intern/git/Guru99Project/Guru99Project/src/Screenshots";
+		public static final String Path_ScreenShot = "/home/intern/git/Libsys_DTU/StudentNameUpdateScript/src/Screenshots";
 	}

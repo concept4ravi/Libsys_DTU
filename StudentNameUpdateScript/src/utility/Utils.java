@@ -10,11 +10,13 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.phantomjs.PhantomJSDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.Parameters;
 
 public class Utils {
 	public static WebDriver driver = null;
@@ -33,6 +35,36 @@ public class Utils {
 				System.setProperty("webdriver.gecko.driver",Constant.firefoxDriverLocation); 
 				driver = new FirefoxDriver();
 				Log.info("New Firefox driver instantiated");
+				driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+				Log.info("Implicit wait applied on the driver for 10 seconds");
+				driver.get(Constant.URL);
+				Log.info("Web application launched successfully");
+			}else if(sBrowserName.toLowerCase().equals("firefoxheadless")) {
+				System.setProperty("webdriver.gecko.driver",Constant.firefoxDriverLocation); 
+				FirefoxOptions options = new FirefoxOptions();
+				options.setHeadless(true);
+				driver = new FirefoxDriver(options);
+				Log.info("New Firefox driver instantiated");
+				driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+				Log.info("Implicit wait applied on the driver for 10 seconds");
+				driver.get(Constant.URL);
+				Log.info("Web application launched successfully");
+			}else if(sBrowserName.toLowerCase().equals("chromeheadless")){
+				System.setProperty("webdriver.chrome.driver",Constant.chromeDriverLocation);
+				ChromeOptions options = new ChromeOptions();
+		        options.addArguments("headless");
+//		        options.setHeadless(true);
+//		        options.addArguments("window-size=1200x600");
+				driver = new ChromeDriver(options);
+				Log.info("New Chrome Headless driver instantiated");
+				driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+				Log.info("Implicit wait applied on the driver for 10 seconds");
+				driver.get(Constant.URL);
+				Log.info("Web application launched successfully");
+			}else if(sBrowserName.toLowerCase().equals("phantomjs")) {
+				System.setProperty("phantomjs.binary.path",Constant.ghostDriverLocation); 
+				driver = new PhantomJSDriver();
+				Log.info("New PhantomJS driver instantiated");
 				driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 				Log.info("Implicit wait applied on the driver for 10 seconds");
 				driver.get(Constant.URL);
