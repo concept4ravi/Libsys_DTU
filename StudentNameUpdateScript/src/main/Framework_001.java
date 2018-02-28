@@ -14,8 +14,6 @@ import utility.Utils;
 
 public class Framework_001{
 	public WebDriver driver;
-	private String sTestCaseName;
-	private int iTestCaseRow;
 	
   @BeforeTest
   @Parameters({"browser"})
@@ -39,9 +37,11 @@ public class Framework_001{
 		StudentNameUpdate.update();
 		
 		if(BaseClass.bResult==true){
-			
+			Log.info("Complete");
+			System.out.println("Complete : Server running normally");
 		}else{
-			
+			Log.info("Not Complete");
+			System.out.println("Error : Server Delay");
 		}
 		
 	  }catch(AssertionError e) {
@@ -59,7 +59,7 @@ public class Framework_001{
   
   	
   // Its time to close the finish the test case		
-//  @AfterTest
+  @AfterTest
   public void afterMethod() {
 	    // Printing beautiful logs to end the test case
 	    Log.endTestCase("Update Student Name");

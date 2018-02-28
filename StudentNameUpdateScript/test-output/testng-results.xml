@@ -2,26 +2,30 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="11069" started-at="2018-02-27T12:22:01Z" finished-at="2018-02-27T12:22:12Z">
+  <suite name="Suite" duration-ms="3545" started-at="2018-02-28T05:52:46Z" finished-at="2018-02-28T05:52:50Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="11069" started-at="2018-02-27T12:22:01Z" finished-at="2018-02-27T12:22:12Z">
+    <test name="Test" duration-ms="3545" started-at="2018-02-28T05:52:46Z" finished-at="2018-02-28T05:52:50Z">
       <class name="main.Framework_001">
-        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:main.Framework_001@34cd072c]" name="beforeMethod" is-config="true" duration-ms="10781" started-at="2018-02-27T12:22:01Z" finished-at="2018-02-27T12:22:12Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:main.Framework_001@6ee52dcd]" name="beforeMethod" is-config="true" duration-ms="1081" started-at="2018-02-28T05:52:46Z" finished-at="2018-02-28T05:52:47Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[firefox]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="main()[pri:0, instance:main.Framework_001@34cd072c]" name="main" duration-ms="278" started-at="2018-02-27T12:22:12Z" finished-at="2018-02-27T12:22:12Z">
+        <test-method status="PASS" signature="main()[pri:0, instance:main.Framework_001@6ee52dcd]" name="main" duration-ms="2346" started-at="2018-02-28T05:52:47Z" finished-at="2018-02-28T05:52:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:main.Framework_001@6ee52dcd]" name="afterMethod" is-config="true" duration-ms="109" started-at="2018-02-28T05:52:50Z" finished-at="2018-02-28T05:52:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
       </class> <!-- main.Framework_001 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->

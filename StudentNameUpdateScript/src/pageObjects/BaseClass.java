@@ -14,5 +14,8 @@ public class BaseClass {
 
 		return driver.getTitle();
 	}
-
+	
+	public static String getCurrentUrl() {
+		return driver.getCurrentUrl();
+	}
 }

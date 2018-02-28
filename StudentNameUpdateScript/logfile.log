@@ -1,46 +1,354 @@
-2018-02-27 17:48:59,134 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:48:59,134 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:48:59,135 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-02-27 17:48:59,135 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:48:59,135 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:48:59,144 ERROR [Log] Login Link not found on the Home Page 
-2018-02-27 17:48:59,144 ERROR [Log]  
-2018-02-27 17:50:02,579 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:50:02,579 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:50:02,579 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-02-27 17:50:02,579 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:50:02,579 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:50:03,048 INFO  [Log] New Chrome Headless driver instantiated 
-2018-02-27 17:50:03,050 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-02-27 17:50:03,589 INFO  [Log] Web application launched successfully 
-2018-02-27 17:50:03,613 INFO  [Log] Login Link found on the Home Page 
-2018-02-27 17:50:03,662 INFO  [Log] ApplyingFor DropDown found on the Home Page 
-2018-02-27 17:50:03,733 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 17:50:03,827 INFO  [Log] Password Text box is found on the Home Page 
-2018-02-27 17:50:03,910 INFO  [Log] Login Button found on the Home Page 
-2018-02-27 17:51:08,833 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:51:08,834 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:51:08,834 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-02-27 17:51:08,834 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:51:08,834 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:51:09,290 INFO  [Log] New Chrome Headless driver instantiated 
-2018-02-27 17:51:09,293 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-02-27 17:51:09,767 INFO  [Log] Web application launched successfully 
-2018-02-27 17:51:09,791 INFO  [Log] Login Link found on the Home Page 
-2018-02-27 17:51:09,947 INFO  [Log] ApplyingFor DropDown found on the Home Page 
-2018-02-27 17:51:10,023 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 17:51:10,128 INFO  [Log] Password Text box is found on the Home Page 
-2018-02-27 17:51:10,216 INFO  [Log] Login Button found on the Home Page 
-2018-02-27 17:52:01,862 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:52:01,862 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:52:01,862 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-02-27 17:52:01,862 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:52:01,862 INFO  [Log] **************************************************************************************** 
-2018-02-27 17:52:04,375 INFO  [Log] New Firefox driver instantiated 
-2018-02-27 17:52:04,382 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-02-27 17:52:12,589 INFO  [Log] Web application launched successfully 
-2018-02-27 17:52:12,618 INFO  [Log] Login Link found on the Home Page 
-2018-02-27 17:52:12,683 INFO  [Log] ApplyingFor DropDown found on the Home Page 
-2018-02-27 17:52:12,745 INFO  [Log] Email text box is found on the Home Page 
-2018-02-27 17:52:12,806 INFO  [Log] Password Text box is found on the Home Page 
-2018-02-27 17:52:12,853 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 10:22:19,137 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:22:19,137 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:22:19,137 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 10:22:19,137 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:22:19,137 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:22:19,833 INFO  [Log] New Chrome driver instantiated 
+2018-02-28 10:22:19,835 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 10:22:20,577 INFO  [Log] Web application launched successfully 
+2018-02-28 10:22:20,599 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 10:22:20,655 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 10:22:20,727 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 10:22:20,850 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 10:22:20,939 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 10:22:22,213 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 10:22:22,336 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 10:22:23,276 INFO  [Log] Complete 
+2018-02-28 10:22:23,277 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 10:22:23,277 INFO  [Log] X 
+2018-02-28 10:22:23,277 INFO  [Log] X 
+2018-02-28 10:22:23,277 INFO  [Log] X 
+2018-02-28 10:22:23,277 INFO  [Log] X 
+2018-02-28 10:26:09,468 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:26:09,469 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:26:09,469 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 10:26:09,469 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:26:09,469 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:26:09,981 INFO  [Log] New Chrome Headless driver instantiated 
+2018-02-28 10:26:09,984 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 10:26:10,412 INFO  [Log] Web application launched successfully 
+2018-02-28 10:26:10,436 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 10:26:10,575 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 10:26:10,647 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 10:26:10,751 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 10:26:10,838 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 10:26:11,946 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 10:26:12,040 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 10:26:13,022 INFO  [Log] Complete 
+2018-02-28 10:26:13,023 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 10:26:13,023 INFO  [Log] X 
+2018-02-28 10:26:13,024 INFO  [Log] X 
+2018-02-28 10:26:13,024 INFO  [Log] X 
+2018-02-28 10:26:13,024 INFO  [Log] X 
+2018-02-28 10:26:24,768 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:26:24,768 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:26:24,768 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 10:26:24,769 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:26:24,769 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:26:25,223 INFO  [Log] New Chrome Headless driver instantiated 
+2018-02-28 10:26:25,225 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 10:26:25,610 INFO  [Log] Web application launched successfully 
+2018-02-28 10:26:25,635 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 10:26:25,785 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 10:26:25,863 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 10:26:25,964 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 10:26:26,051 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 10:26:26,938 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 10:26:27,032 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 10:26:28,070 INFO  [Log] Complete 
+2018-02-28 10:26:28,072 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 10:26:28,072 INFO  [Log] X 
+2018-02-28 10:26:28,072 INFO  [Log] X 
+2018-02-28 10:26:28,072 INFO  [Log] X 
+2018-02-28 10:26:28,072 INFO  [Log] X 
+2018-02-28 10:26:56,687 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:26:56,687 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:26:56,688 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 10:26:56,688 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:26:56,688 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:26:57,143 INFO  [Log] New Chrome Headless driver instantiated 
+2018-02-28 10:26:57,146 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 10:26:57,571 INFO  [Log] Web application launched successfully 
+2018-02-28 10:26:57,592 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 10:26:57,750 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 10:26:57,823 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 10:26:57,920 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 10:26:58,010 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 10:26:59,199 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 10:26:59,295 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 10:27:00,416 INFO  [Log] Complete 
+2018-02-28 10:27:00,417 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 10:27:00,417 INFO  [Log] X 
+2018-02-28 10:27:00,417 INFO  [Log] X 
+2018-02-28 10:27:00,417 INFO  [Log] X 
+2018-02-28 10:27:00,417 INFO  [Log] X 
+2018-02-28 10:30:19,617 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:30:19,617 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:30:19,617 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 10:30:19,617 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:30:19,617 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:30:20,152 INFO  [Log] New Chrome Headless driver instantiated 
+2018-02-28 10:30:20,155 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 10:30:22,414 INFO  [Log] Web application launched successfully 
+2018-02-28 10:30:22,435 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 10:30:22,591 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 10:30:22,667 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 10:30:22,769 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 10:30:22,854 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 10:30:23,708 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 10:30:23,801 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 10:30:24,865 INFO  [Log] Complete 
+2018-02-28 10:30:24,865 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 10:30:24,866 INFO  [Log] X 
+2018-02-28 10:30:24,866 INFO  [Log] X 
+2018-02-28 10:30:24,866 INFO  [Log] X 
+2018-02-28 10:30:24,866 INFO  [Log] X 
+2018-02-28 10:34:47,389 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:34:47,389 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:34:47,389 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 10:34:47,389 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:34:47,389 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:34:47,855 INFO  [Log] New Chrome Headless driver instantiated 
+2018-02-28 10:34:47,857 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 10:34:48,286 INFO  [Log] Web application launched successfully 
+2018-02-28 10:34:48,309 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 10:34:48,466 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 10:34:48,540 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 10:34:48,639 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 10:34:48,728 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 10:34:49,667 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 10:34:49,766 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 10:34:50,719 INFO  [Log] Complete 
+2018-02-28 10:34:50,721 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 10:34:50,721 INFO  [Log] X 
+2018-02-28 10:34:50,721 INFO  [Log] X 
+2018-02-28 10:34:50,721 INFO  [Log] X 
+2018-02-28 10:34:50,721 INFO  [Log] X 
+2018-02-28 10:43:18,982 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:43:18,982 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:43:18,983 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 10:43:18,983 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:43:18,983 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:43:19,462 INFO  [Log] New Chrome Headless driver instantiated 
+2018-02-28 10:43:19,465 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 10:43:19,875 INFO  [Log] Web application launched successfully 
+2018-02-28 10:43:19,895 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 10:43:20,049 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 10:43:20,123 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 10:43:20,224 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 10:43:20,311 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 10:43:40,554 ERROR [Log] 'First Name' text box is not found on the LoggedIn Page 
+2018-02-28 10:43:40,557 ERROR [Log] no such element: Unable to locate element: {"method":"id","selector":"NAME OF THE APPLICANT1"}
+  (Session info: headless chrome=61.0.3163.91)
+  (Driver info: chromedriver=2.34.522913 (36222509aa6e819815938cbf2709b4849735537c),platform=Linux 3.10.0-514.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:32.194Z'
+System info: host: 'localhost.localdomain', ip: '127.0.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-514.el7.x86_64', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522913 (36222509aa6e81..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 61.0.3163.91, webStorageEnabled: true}
+Session ID: 495331df658255ec6b3f38a95d986713
+*** Element info: {Using=id, value=NAME OF THE APPLICANT1} 
+2018-02-28 10:43:40,559 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 10:43:40,559 INFO  [Log] X 
+2018-02-28 10:43:40,559 INFO  [Log] X 
+2018-02-28 10:43:40,560 INFO  [Log] X 
+2018-02-28 10:43:40,560 INFO  [Log] X 
+2018-02-28 10:44:04,079 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:44:04,080 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:44:04,080 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 10:44:04,080 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:44:04,080 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:44:04,538 INFO  [Log] New Chrome Headless driver instantiated 
+2018-02-28 10:44:04,540 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 10:44:04,957 INFO  [Log] Web application launched successfully 
+2018-02-28 10:44:04,980 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 10:44:05,136 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 10:44:05,212 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 10:44:05,312 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 10:44:05,398 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 10:44:25,694 ERROR [Log] 'First Name' text box is not found on the LoggedIn Page 
+2018-02-28 10:44:25,696 ERROR [Log] no such element: Unable to locate element: {"method":"id","selector":"NAME OF THE APPLICANT1"}
+  (Session info: headless chrome=61.0.3163.91)
+  (Driver info: chromedriver=2.34.522913 (36222509aa6e819815938cbf2709b4849735537c),platform=Linux 3.10.0-514.el7.x86_64 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:32.194Z'
+System info: host: 'localhost.localdomain', ip: '127.0.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-514.el7.x86_64', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522913 (36222509aa6e81..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 61.0.3163.91, webStorageEnabled: true}
+Session ID: c607c279bd93c5e1745540d8f2054486
+*** Element info: {Using=id, value=NAME OF THE APPLICANT1} 
+2018-02-28 10:44:25,715 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 10:44:25,715 INFO  [Log] X 
+2018-02-28 10:44:25,715 INFO  [Log] X 
+2018-02-28 10:44:25,715 INFO  [Log] X 
+2018-02-28 10:44:25,715 INFO  [Log] X 
+2018-02-28 10:44:44,787 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:44:44,788 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:44:44,788 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 10:44:44,788 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:44:44,788 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:44:45,249 INFO  [Log] New Chrome Headless driver instantiated 
+2018-02-28 10:44:45,252 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 10:44:45,633 INFO  [Log] Web application launched successfully 
+2018-02-28 10:44:45,656 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 10:44:45,807 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 10:44:45,882 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 10:44:45,983 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 10:44:46,070 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 10:44:47,038 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 10:44:47,132 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 10:44:48,145 INFO  [Log] Complete 
+2018-02-28 10:44:48,147 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 10:44:48,147 INFO  [Log] X 
+2018-02-28 10:44:48,147 INFO  [Log] X 
+2018-02-28 10:44:48,147 INFO  [Log] X 
+2018-02-28 10:44:48,147 INFO  [Log] X 
+2018-02-28 10:45:48,069 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:45:48,070 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:45:48,070 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 10:45:48,070 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:45:48,070 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:45:48,527 INFO  [Log] New Chrome Headless driver instantiated 
+2018-02-28 10:45:48,529 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 10:45:48,957 INFO  [Log] Web application launched successfully 
+2018-02-28 10:45:48,978 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 10:45:49,152 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 10:45:49,230 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 10:45:49,328 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 10:45:49,417 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 10:45:50,388 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 10:45:50,482 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 10:45:51,947 INFO  [Log] Complete 
+2018-02-28 10:45:51,948 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 10:45:51,948 INFO  [Log] X 
+2018-02-28 10:45:51,948 INFO  [Log] X 
+2018-02-28 10:45:51,948 INFO  [Log] X 
+2018-02-28 10:45:51,948 INFO  [Log] X 
+2018-02-28 10:54:42,431 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:54:42,431 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:54:42,431 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 10:54:42,431 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:54:42,431 INFO  [Log] **************************************************************************************** 
+2018-02-28 10:54:43,082 INFO  [Log] New Chrome driver instantiated 
+2018-02-28 10:54:43,085 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 10:54:43,436 INFO  [Log] Web application launched successfully 
+2018-02-28 10:54:43,458 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 10:54:43,513 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 10:54:43,586 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 10:54:43,705 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 10:54:43,796 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 10:54:44,676 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 10:54:44,800 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 10:54:46,224 INFO  [Log] Complete 
+2018-02-28 10:54:46,225 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 10:54:46,225 INFO  [Log] X 
+2018-02-28 10:54:46,225 INFO  [Log] X 
+2018-02-28 10:54:46,225 INFO  [Log] X 
+2018-02-28 10:54:46,225 INFO  [Log] X 
+2018-02-28 11:06:37,614 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:06:37,614 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:06:37,614 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 11:06:37,614 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:06:37,614 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:06:38,225 INFO  [Log] New Chrome driver instantiated 
+2018-02-28 11:06:38,228 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 11:06:38,594 INFO  [Log] Web application launched successfully 
+2018-02-28 11:06:38,619 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 11:06:38,670 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 11:06:38,745 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 11:06:38,863 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 11:06:38,952 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 11:06:39,788 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 11:06:39,902 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 11:06:40,788 INFO  [Log] Complete 
+2018-02-28 11:06:40,789 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 11:06:40,789 INFO  [Log] X 
+2018-02-28 11:06:40,789 INFO  [Log] X 
+2018-02-28 11:06:40,789 INFO  [Log] X 
+2018-02-28 11:06:40,789 INFO  [Log] X 
+2018-02-28 11:11:05,957 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:11:05,958 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:11:05,958 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 11:11:05,958 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:11:05,958 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:11:06,541 INFO  [Log] New Chrome driver instantiated 
+2018-02-28 11:11:06,544 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 11:11:06,928 INFO  [Log] Web application launched successfully 
+2018-02-28 11:11:06,953 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 11:11:07,006 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 11:11:07,079 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 11:11:07,198 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 11:11:07,289 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 11:11:08,075 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 11:11:08,194 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 11:11:09,180 INFO  [Log] Complete 
+2018-02-28 11:11:09,181 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 11:11:09,181 INFO  [Log] X 
+2018-02-28 11:11:09,181 INFO  [Log] X 
+2018-02-28 11:11:09,181 INFO  [Log] X 
+2018-02-28 11:11:09,181 INFO  [Log] X 
+2018-02-28 11:13:21,828 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:13:21,828 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:13:21,828 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 11:13:21,828 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:13:21,828 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:13:22,393 INFO  [Log] New Chrome driver instantiated 
+2018-02-28 11:13:22,398 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 11:13:22,787 INFO  [Log] Web application launched successfully 
+2018-02-28 11:13:22,817 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 11:13:22,874 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 11:13:22,951 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 11:13:23,075 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 11:13:23,167 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 11:13:24,055 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 11:13:24,177 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 11:13:25,065 INFO  [Log] Complete 
+2018-02-28 11:13:25,070 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 11:13:25,070 INFO  [Log] X 
+2018-02-28 11:13:25,070 INFO  [Log] X 
+2018-02-28 11:13:25,070 INFO  [Log] X 
+2018-02-28 11:13:25,070 INFO  [Log] X 
+2018-02-28 11:18:10,032 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:18:10,032 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:18:10,032 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 11:18:10,032 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:18:10,032 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:18:10,642 INFO  [Log] New Chrome driver instantiated 
+2018-02-28 11:18:10,645 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 11:18:11,325 INFO  [Log] Web application launched successfully 
+2018-02-28 11:18:11,346 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 11:18:11,399 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 11:18:11,469 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 11:18:11,590 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 11:18:11,680 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 11:18:12,747 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 11:18:12,870 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 11:18:13,736 INFO  [Log] Complete 
+2018-02-28 11:18:13,736 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 11:18:13,737 INFO  [Log] X 
+2018-02-28 11:18:13,737 INFO  [Log] X 
+2018-02-28 11:18:13,737 INFO  [Log] X 
+2018-02-28 11:18:13,737 INFO  [Log] X 
+2018-02-28 11:22:46,735 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:22:46,736 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:22:46,736 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Update Student Name       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-28 11:22:46,736 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:22:46,736 INFO  [Log] **************************************************************************************** 
+2018-02-28 11:22:47,340 INFO  [Log] New Chrome driver instantiated 
+2018-02-28 11:22:47,343 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-02-28 11:22:47,756 INFO  [Log] Web application launched successfully 
+2018-02-28 11:22:47,784 INFO  [Log] Login Link found on the Home Page 
+2018-02-28 11:22:47,834 INFO  [Log] ApplyingFor DropDown found on the Home Page 
+2018-02-28 11:22:47,907 INFO  [Log] Email text box is found on the Home Page 
+2018-02-28 11:22:48,027 INFO  [Log] Password Text box is found on the Home Page 
+2018-02-28 11:22:48,115 INFO  [Log] Login Button found on the Home Page 
+2018-02-28 11:22:49,049 INFO  [Log] 'First Name' text box is found on the LoggedIn Page 
+2018-02-28 11:22:49,173 INFO  [Log] 'Save & Continue' Button found on the LoggedIn Page 
+2018-02-28 11:22:50,107 INFO  [Log] Complete 
+2018-02-28 11:22:50,109 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-28 11:22:50,109 INFO  [Log] X 
+2018-02-28 11:22:50,109 INFO  [Log] X 
+2018-02-28 11:22:50,109 INFO  [Log] X 
+2018-02-28 11:22:50,109 INFO  [Log] X 

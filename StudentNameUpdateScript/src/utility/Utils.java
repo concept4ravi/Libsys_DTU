@@ -14,7 +14,6 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.phantomjs.PhantomJSDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -61,17 +60,10 @@ public class Utils {
 				Log.info("Implicit wait applied on the driver for 10 seconds");
 				driver.get(Constant.URL);
 				Log.info("Web application launched successfully");
-			}else if(sBrowserName.toLowerCase().equals("phantomjs")) {
-				System.setProperty("phantomjs.binary.path",Constant.ghostDriverLocation); 
-				driver = new PhantomJSDriver();
-				Log.info("New PhantomJS driver instantiated");
-				driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-				Log.info("Implicit wait applied on the driver for 10 seconds");
-				driver.get(Constant.URL);
-				Log.info("Web application launched successfully");
 			}
 		}catch (Exception e){
 			Log.error("Class Utils | Method OpenBrowser | Exception desc : "+e.getMessage());
+			System.out.println("Unable to open browser");
 		}
 		return driver;
 	}
