@@ -18,7 +18,7 @@ public class Main {
 		tng.addListener((ITestNGListener)tla);;
 		tng.setTestSuites(suites);
 		tng.run();
-		Thread.sleep(30000);
+		Thread.sleep(5000);
 		}
 	}
 }

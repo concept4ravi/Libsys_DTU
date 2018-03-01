@@ -9,6 +9,7 @@ public class Listeners extends TestListenerAdapter {
        public void onTestFailure(ITestResult result) {
               String rs = getMethodContext(result);
               System.err.println(rs + " | FAILED");
+              System.out.println("Server Unavailable");
               Reporter.log(rs + " | FAILED");
        }
 

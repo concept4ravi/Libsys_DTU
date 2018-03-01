@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="3016" started-at="2018-02-28T06:12:46Z" finished-at="2018-02-28T06:12:49Z">
+  <suite name="Suite" duration-ms="6221" started-at="2018-03-01T10:16:20Z" finished-at="2018-03-01T10:16:26Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="3016" started-at="2018-02-28T06:12:46Z" finished-at="2018-02-28T06:12:49Z">
+    <test name="Test" duration-ms="6221" started-at="2018-03-01T10:16:20Z" finished-at="2018-03-01T10:16:26Z">
       <class name="main.Framework_001">
-        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:main.Framework_001@5f0fd5a0]" name="beforeMethod" is-config="true" duration-ms="731" started-at="2018-02-28T06:12:46Z" finished-at="2018-02-28T06:12:46Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:main.Framework_001@2781e022]" name="beforeMethod" is-config="true" duration-ms="1041" started-at="2018-03-01T10:16:20Z" finished-at="2018-03-01T10:16:21Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="main()[pri:0, instance:main.Framework_001@5f0fd5a0]" name="main" duration-ms="2180" started-at="2018-02-28T06:12:46Z" finished-at="2018-02-28T06:12:48Z">
+        <test-method status="PASS" signature="main()[pri:0, instance:main.Framework_001@2781e022]" name="main" duration-ms="5066" started-at="2018-03-01T10:16:21Z" finished-at="2018-03-01T10:16:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- main -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:main.Framework_001@5f0fd5a0]" name="afterMethod" is-config="true" duration-ms="104" started-at="2018-02-28T06:12:48Z" finished-at="2018-02-28T06:12:49Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:main.Framework_001@2781e022]" name="afterMethod" is-config="true" duration-ms="107" started-at="2018-03-01T10:16:26Z" finished-at="2018-03-01T10:16:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->

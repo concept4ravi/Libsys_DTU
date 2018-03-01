@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test thread-count="5" name="Test(failed)">
-    <parameter name="browser" value="chromeheadless"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
       <class name="main.Framework_001">
         <methods>
