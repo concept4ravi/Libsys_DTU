@@ -17,7 +17,7 @@ public class StudentInfo {
 		Select sel = new Select(Home_Page.dropdown_ApplyingFor());
 		Thread.sleep(2000);
 		//		sel.selectByVisibleText(Constant.CourseType);
-		sel.selectByIndex(Constant.CourseType);
+		sel.selectByVisibleText(Constant.CourseType);
 		Utils.enterData(Home_Page.txtbx_Email(), Constant.Username);
 		Utils.enterData(Home_Page.txtbx_Password(), Constant.Password); 
 		Home_Page.btn_Login().click();

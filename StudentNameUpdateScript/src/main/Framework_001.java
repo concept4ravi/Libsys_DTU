@@ -20,9 +20,10 @@ public class Framework_001{
 	@BeforeTest
 	@Parameters({"browser"})
 	public void beforeMethod(String browser) throws Exception {
-
+		
+		// System.out.println(Constant.basePath);
 		DOMConfigurator.configure("log4j.xml");
-
+		
 		Log.startTestCase("'Update Student Name'");
 		driver = Utils.OpenBrowser(browser);
 
@@ -34,7 +35,6 @@ public class Framework_001{
 	@Test
 	public void main() throws Exception {
 		// Every exception thrown from any class or method, will be catch here and will be taken care off
-		// For Exception handling please see http://www.toolsqa.com/selenium-webdriver/exception-handling-selenium-webdriver/
 		if(Home_Page.header_serviceUnavailable()!=null) {
 
 			if(Home_Page.header_serviceUnavailable().getText().equals("Service Unavailable")) {
@@ -45,7 +45,6 @@ public class Framework_001{
 		}else {
 
 			try{
-				//			SendMail.sendMail("Error : Server Delay");
 				StudentInfo.nameUpdate();
 
 				if(BaseClass.bResult==true){
@@ -54,15 +53,15 @@ public class Framework_001{
 				}
 
 			}catch(AssertionError e) {
-				//		  Utils.takeScreenshot(driver, sTestCaseName);
+				// Utils.takeScreenshot(driver, sTestCaseName);
 				Log.error(e.getMessage());
 				throw (e);
 			}
 			catch (Exception e){
-				//		  Utils.takeScreenshot(driver, sTestCaseName);
+				// Utils.takeScreenshot(driver, sTestCaseName);
 				Log.info("Not Complete");
 				Log.error(e.getMessage());
-				//			SendMail.sendMail("Error : Server Delay");
+				// SendMail.sendMail("Error : Server Delay");
 				System.out.println("Error : Server Delay, Please restart Server");
 				throw (e);
 			}
@@ -70,8 +69,7 @@ public class Framework_001{
 
 	}
 
-
-	// Its time to close the finish the test case		
+	// Its time to close the test case		
 	@AfterTest
 	public void afterMethod() {
 		// Printing beautiful logs to end the test case
